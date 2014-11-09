@@ -1,0 +1,10 @@
+{
+  "name": "signature_finder",
+  "version": "0.0.1",
+  "description": "Signature Finder",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*"
+   },
+  "engine": "node 0.6.x"
+}
